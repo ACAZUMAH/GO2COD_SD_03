@@ -36,21 +36,21 @@ A simple command-line Rock, Paper, Scissors game built with Node.js and TypeScri
 3. **The computer will make its choice, and the result of the round will be displayed.**
 4. **The game continues until you decide to quit.**
 
+## Sample Gameplay
+   ```bash
+   rock, paper, or scissors? (or type 'quit' to exit): rock
+   Computer chose paper
+   You lose!
+   Player: 0 Computer: 1
+   rock, paper, or scissors? (or type 'quit' to exit): paper
+   Computer chose rock
+   You win!
+   Player: 1 Computer: 1
+   rock, paper, or scissors? (or type 'quit' to exit): quit
+   Game over
+   Final score: Player: 1 Computer: 1
+   ```
 
-Sample Gameplay
-bash
-Copy code
-rock, paper, or scissors? (or type 'quit' to exit): rock
-Computer chose paper
-You lose!
-Player: 0 Computer: 1
-rock, paper, or scissors? (or type 'quit' to exit): paper
-Computer chose rock
-You win!
-Player: 1 Computer: 1
-rock, paper, or scissors? (or type 'quit' to exit): quit
-Game over
-Final score: Player: 1 Computer: 1
 Folder Structure
 index.ts: Main game logic
 package.json: Project dependencies and scripts
