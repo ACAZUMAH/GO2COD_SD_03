@@ -54,10 +54,11 @@ A simple command-line Rock, Paper, Scissors game built with Node.js and TypeScri
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements:
+ 
 1. **Fork this repository.**
 2. **Create a new branch for your changes.**
 3. **Submit a pull request with a detailed description of your changes.**
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the <a href="https://opensource.org/license/MIT">LICENSE</a> file for details.
