@@ -29,12 +29,12 @@ A simple command-line Rock, Paper, Scissors game built with Node.js and TypeScri
    npm start
    ```
 ## How to Play
-1.Start the game using the instructions above.
-2.You'll be prompted to choose between rock, paper, or scissors.
-  - **Type your choice and hit Enter.**
-  - **Type quit to exit the game.**
-3.The computer will make its choice, and the result of the round will be displayed.
-4.The game continues until you decide to quit.
+1. **Start the game using the instructions above.**
+2. **You'll be prompted to choose between rock, paper, or scissors.**
+-  **Type your choice and hit Enter.**
+-  **Type quit to exit the game.**
+3. **The computer will make its choice, and the result of the round will be displayed.**
+4. **The game continues until you decide to quit.**
 
 
 Sample Gameplay
