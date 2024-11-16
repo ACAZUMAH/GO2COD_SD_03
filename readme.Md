@@ -51,12 +51,8 @@ A simple command-line Rock, Paper, Scissors game built with Node.js and TypeScri
    Final score: Player: 1 Computer: 1
    ```
 
-Folder Structure
-index.ts: Main game logic
-package.json: Project dependencies and scripts
-Contributing
+## Contributing
 Contributions are welcome! If you have suggestions or improvements:
-
 Fork this repository.
 Create a new branch for your changes.
 Submit a pull request with a detailed description of your changes.
